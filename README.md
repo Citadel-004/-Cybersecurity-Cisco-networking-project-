@@ -1,5 +1,6 @@
 ## CYBERSECURITY AND NETWORKING LAB
 
+
 ## TOPICS COVERED 
 - Introduction to Cybersecurity
 - Cisco Packet Tracer Labs 
@@ -10,18 +11,18 @@
 
 ## TOOLS USED
 
--Cisco Packet Tracer 
--Kali Linux
--Metasploitable 
--Windows 10 Virtual Machine 
+- Cisco Packet Tracer 
+- Kali Linux
+- Metasploitable 
+- Windows 10 Virtual Machine 
 
 ## WHAT I LEARNED 
 
--Network design and simulation 
--Ip addressing and subnetting 
--Basic router and switch configuration 
--Cybersecurity fundamental
--Ethical hacking concepts and lab pratice 
+- Network design and simulation 
+- Ip addressing and subnetting 
+- Basic router and switch configuration 
+- Cybersecurity fundamental
+- Ethical hacking concepts and lab pratice 
 
 ## PURPOSE
 
