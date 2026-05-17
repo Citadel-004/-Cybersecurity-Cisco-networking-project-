@@ -30,5 +30,5 @@ This repoistory documents my progress , labs,screenshots,configurations, and cyb
 
 ## AUTHOR 
 
-Chinonyerem Ike-Ogoke 
+* Chinonyerem Ike-Ogoke 
 Aspiring Cybersecurity and Networking Enthusiast
